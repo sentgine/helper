@@ -18,7 +18,7 @@ Helper is PHP library providing various helper functions for common tasks.
 (1) You can install the package via Composer by running the following command:
 
 ```bash
-composer require sentgine/helper
+composer require sentgine/helper:^1.0
 ```
 
 # Sample Usage of Sentgine\Helper\Word
